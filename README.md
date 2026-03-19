@@ -1,16 +1,14 @@
-## Hi there 👋
+### Programming Languages I Have Used:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
 
-<!--
-**TamirEli/TamirEli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Most Used Languages In Github:
+![Tamir's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TamirEli&layout=compact&theme=vision-glow)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering Student at **Afeka College of Engineering**.
+- 🛡️ Graduate of the **Magshimim** National Cyber Program.
+- 💻 Currently focusing on advanced **C++** and Backend Systems.
