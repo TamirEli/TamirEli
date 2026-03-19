@@ -1,4 +1,4 @@
-# Hi, I'm Tamir Eliasy! 👋
+Tamir Eliasy
 
 Software Engineering Student at Afeka College of Engineering | Magshimim Graduate
 
@@ -19,9 +19,3 @@ Software Engineering Student at Afeka College of Engineering | Magshimim Graduat
 - Graduate of the prestigious **Magshimim** National Cyber Program.
 - 💻 Passionate about backend development, complex logic, and system architecture.
 
----
-
-### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tamir Eliasy" height="30" width="40" /></a>
-</p>
