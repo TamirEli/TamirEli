@@ -15,13 +15,6 @@ Software Engineering Student at Afeka College of Engineering | Magshimim Graduat
 
 ---
 
-### Most Used Languages in GitHub:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamirEli&layout=compact&theme=vision-glow&hide_border=true" alt="Tamir's Top Langs" />
-</p>
-
----
-
 ### About Me:
 - 🎓 Currently studying **Software Engineering** at Afeka College.
 - Graduate of the prestigious **Magshimim** National Cyber Program.
