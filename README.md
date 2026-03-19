@@ -15,7 +15,7 @@ Software Engineering Student at Afeka College of Engineering | Magshimim Graduat
 ---
 
 ### About Me:
-- 🎓 Currently studying **Software Engineering** at Afeka College.
+- Currently studying **Software Engineering** at Afeka College.
 - Graduate of the prestigious **Magshimim** National Cyber Program.
-- 💻 Passionate about backend development, complex logic, and system architecture.
+- Passionate about backend development, complex logic, and system architecture.
 
